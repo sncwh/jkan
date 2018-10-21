@@ -1,11 +1,11 @@
-title: Open NC Data Portsl
+title: Open NC Data Portal
 greeting: Welcome to the Open NC Data Portal
 description: A lightweight, backend-free open data portal, powered by Jekyll.
 baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Superhero
+jkan_theme: Cosmo
 
 # Authentication
 github_client_id: d73074d6c8df92ef683f
