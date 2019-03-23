@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Cosmo
 
 # Authentication
-github_client_id: 6b4268abc14afcef1083
-gatekeeper_host: https://opennc-data-portal.herokuapp.com/
+github_client_id: 79591e49f7c992ed301b
+gatekeeper_host: https://open-nc-data-portal.herokuapp.com/
 
 # Dataset schema
 schema: default
