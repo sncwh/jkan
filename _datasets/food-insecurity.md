@@ -15,6 +15,9 @@ resources:
     url: >-
       https://s3.amazonaws.com/or-dp-public-test-cwh/TechCrunchcontinentalUSA.csv
     format: csv
+  - name: test1
+    url: ''
+    format: ''
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Food
