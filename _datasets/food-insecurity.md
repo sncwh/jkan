@@ -21,9 +21,9 @@ resources:
     storageKey: ''
     storageBucket: ''
     format: csv
-  - name: qweqwe
+  - name: rtrtr
     url: ''
-    storageKey: yyy.json_sncwh_b0PskjorZ
+    storageKey: yyy.json_sncwh_n9CkBMEB0
     storageBucket: ''
     format: json
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
