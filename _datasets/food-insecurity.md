@@ -26,6 +26,11 @@ resources:
     storageKey: xx.txt_sncwh_khEkW-bRa
     storageBucket: ''
     format: txt
+  - name: rtrtrt
+    url: ''
+    storageKey: xx.txt_sncwh_RHlD4HvHl
+    storageBucket: ''
+    format: txt
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Food
