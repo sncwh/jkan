@@ -21,11 +21,11 @@ resources:
     storageKey: ''
     storageBucket: ''
     format: csv
-  - name: asfafsd
+  - name: asdfddfdf
     url: ''
-    storageKey: yyy.json_sncwh_Lm-BSHyqZ
+    storageKey: x.txt_sncwh_Glt4QacBh
     storageBucket: ''
-    format: json
+    format: txt
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
 category:
   - Food
